@@ -1,0 +1,54 @@
+{
+  "slug": "charlie-shoes",
+  "business_name": "Charlie Shoes",
+  "domain": "charlieshoes.pk",
+  "agent_name": "Sara",
+  "agent_role": "AI sales assistant",
+  "widget_key": "hania_5f76e6f96b1180e50ac1eda2b114b9bf4e549a702df19cfa",
+  "data_date": "25 Nov 2026",
+  "accent": "#a8642a",
+  "hero_headline": "Your shop closes at 9 PM.",
+  "hero_emphasis": "Your Instagram doesn't.",
+  "hero_lead": "Sara answers every shopper in seconds, day and night, in English and Roman Urdu. She knows your styles, sizes and prices, and she turns \"price?\" into a confirmed order.",
+  "hero_cta": "Ask Sara what your customers ask",
+  "facts": ["40 in-stock styles loaded", "Sizes 40 to 44", "English, Roman Urdu, Urdu"],
+  "chips": [
+    {"label": "Shaadi ke liye formal shoes", "question": "Shaadi ke liye formal shoes chahiye, budget 4000 tak. Size 42."},
+    {"label": "Peshawari chappal size 44?", "question": "Eid ke liye Peshawari chappal hai? Size 44 milega?"},
+    {"label": "COD hai?", "question": "Cash on delivery hai? Delivery kitne din mein hogi?"},
+    {"label": "Best sneakers for gym", "question": "Gym aur walking ke liye best sneakers kaunse hain?"}
+  ],
+  "pain_eyebrow": "You know the routine",
+  "pain_story": "Phone on the pillow. \"Size 42 hai?\" at 12:40 AM. \"Price?\" on a post that already shows the price. \"COD hai?\" for the fifth time today. Reply in the morning and the buyer has already ordered from the store that answered first.",
+  "pain_closer": "You didn't start a store to type the same answer fifty times a day.",
+  "inbox_time": "12:40",
+  "inbox_label": "Tonight",
+  "inbox": [
+    {"channel": "Instagram", "time": "11:40 PM", "text": "Is ka size 42 available hai?"},
+    {"channel": "WhatsApp", "time": "12:12 AM", "text": "Price? Delivery Lahore mein kitne din?"},
+    {"channel": "Instagram", "time": "12:40 AM", "text": "COD hai? Parcel khol ke dekh sakte hain?"}
+  ],
+  "icp_headline": "Three kinds of buyers message you every day.",
+  "icp_lead": "Each one asks different questions before they buy. Sara answers each the way they need.",
+  "icps": [
+    {"who": "Wedding season", "title": "The groom's family buying formal shoes", "pain": "They need the right size and style before a fixed date, and they ask late at night after the family decides.", "fix": "Asks the event and budget, suggests formal pairs in their size, and sends the link to order.", "question": "Shaadi ke liye formal shoes chahiye, budget 4000 tak. Size 42."},
+    {"who": "Everyday comfort", "title": "The man on his feet all day", "pain": "He wants comfort, not fashion, and needs to know which pair will last before he pays.", "fix": "Asks how he spends his day and recommends comfortable pairs with sizes in stock.", "question": "Office mein poora din khare rehna hota hai, comfortable shoes kaunse hain?"},
+    {"who": "First-time buyer", "title": "The shopper who found you through an ad", "pain": "He has never bought from you, so he asks about COD, delivery time and whether he can check the parcel.", "fix": "Answers delivery and payment questions from your own rules, then guides him to order.", "question": "Cash on delivery hai? Parcel khol ke dekh sakte hain?"}
+  ],
+  "does": [
+    {"title": "Knows your shelf.", "text": "Answers from your real products, prices and sizes. It never offers what you don't have."},
+    {"title": "Helps them choose.", "text": "It asks a question or two, formal or casual, what budget, and suggests what fits."},
+    {"title": "Adds the right extra.", "text": "It suggests socks with sneakers or a belt with formal shoes. You set how pushy it is."},
+    {"title": "Sends a link to buy.", "text": "One checkout link. Payment happens on your own store checkout."},
+    {"title": "Answers order questions.", "text": "Delivery, COD and exchange questions answered from your own rules."},
+    {"title": "Hands you the hard ones.", "text": "Exchanges, refunds and complaints come to your team with the details already collected."}
+  ],
+  "faq": [
+    {"q": "My customers want a real person.", "a": "They want an answer. When they need a person, it hands them to your team with the details ready."},
+    {"q": "Roman Urdu?", "a": "Yes. It replies in the language the customer types in."},
+    {"q": "What if it says something wrong?", "a": "It answers only from your store and your rules, and anything it isn't sure about goes to you."}
+  ],
+  "close_headline": "Tonight, let Sara take the 1 AM questions.",
+  "close_lead": "Share your delivery charges, COD and exchange rules. We load them, connect your website and DMs, and you watch the first night's conversations in the morning.",
+  "close_cta": "Put Sara on charlieshoes.pk"
+}
