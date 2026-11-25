@@ -1,0 +1,54 @@
+{
+  "slug": "globosmart-services",
+  "business_name": "Globosmart Services",
+  "domain": "globosmartservices.com",
+  "agent_name": "Sara",
+  "agent_role": "AI operations assistant",
+  "widget_key": "hania_f62bdf0b73bb54d6f5b288b48316a94ba39b985d8f929f5a",
+  "data_date": "25 Nov 2026",
+  "hero_headline": "Operations taking your week?",
+  "hero_emphasis": "Get a clear next step.",
+  "hero_lead": "Ask Sara about affiliate programs, support operations, or automation. She answers from Globosmart's website and can point qualified operators to a free 30-minute diagnostic.",
+  "hero_cta": "Ask Sara about your operations",
+  "facts": ["Affiliate programs and partner payouts", "Support, fulfillment, refunds and chargebacks", "AI automation, with human review for important actions"],
+  "chips": [
+    {"label": "Affiliate program", "question": "Can you take over an existing affiliate program with partners who have gone quiet?"},
+    {"label": "Support operations", "question": "Can your team handle order support and cancellations in our existing systems?"},
+    {"label": "AI automation", "question": "What repetitive customer work could an AI agent handle, and what stays with a person?"},
+    {"label": "Engagement", "question": "How does the diagnostic and 30-day pilot work, and what does it cost?"}
+  ],
+  "pain_eyebrow": "When the work keeps finding you",
+  "pain_story": "A partner stops promoting. A cancellation request waits in the support queue. A lead asks the same question after hours. You are pulled back into the details instead of moving the business forward. Globosmart's site describes these operational pressures across affiliate programs, fulfillment, support, and automation.",
+  "pain_closer": "The first step is finding which operational job needs attention.",
+  "inbox_time": "After hours",
+  "inbox_label": "When the queue keeps moving",
+  "inbox": [
+    {"channel": "Email", "time": "Late", "text": "Our affiliates signed up, but most have not sent traffic. Can you take over?"},
+    {"channel": "Support", "time": "Busy shift", "text": "A customer wants to cancel. Who handles cancellations and refund requests?"},
+    {"channel": "Website", "time": "After hours", "text": "Could an agent answer routine questions and hand difficult cases to a person?"}
+  ],
+  "icp_headline": "Different operations, one useful first conversation",
+  "icp_lead": "Whether the pressure is partner activity, customer support, or repetitive work, Sara can help identify the relevant service and next step.",
+  "icps": [
+    {"who": "Affiliate program owners", "title": "Direct-response founders with partners who have gone quiet", "pain": "Partner recruitment and follow-up can stall, top partners may drift, and payout administration can take attention away from other work.", "fix": "Sara explains Globosmart's affiliate program work, including partner recruitment, activation, commission administration, and the diagnostic process, without promising results.", "question": "Can you take over our existing program and help reactivate partners?"},
+    {"who": "Support and fulfillment teams", "title": "Operators managing busy support, order, refund, or cancellation workflows", "pain": "Slow replies, order questions, cancellations, and chargeback issues can crowd the queue and pull an owner into routine operations.", "fix": "Sara outlines the support and back-office work Globosmart lists, clarifies that teams work in the client's systems, and routes qualified visitors to discuss their operation.", "question": "What support and cancellation work can you handle in our current helpdesk?"},
+    {"who": "Automation-minded founders", "title": "Business owners weighing automation for repetitive customer work", "pain": "Leads can wait for replies and staff can repeat the same tasks, while a poorly scoped automation may miss the real bottleneck.", "fix": "Sara describes the agent types and discovery approach on the site, explains that Hania.ai is not required for Globosmart projects, and points ready prospects to a diagnostic.", "question": "Can an agent handle routine questions while a person handles exceptions?"}
+  ],
+  "does": [
+    {"title": "Explains the service fit", "text": "Ask about affiliate programs, customer support, fulfillment, or AI automation and get a concise answer based on Globosmart's website."},
+    {"title": "Clarifies the operational need", "text": "Sara asks a short follow-up about the work, current process, or system involved before suggesting a relevant service."},
+    {"title": "Sets pricing expectations", "text": "She shares the published engagement information and explains that the pilot scope and fee are quoted after the diagnostic."},
+    {"title": "Points qualified visitors forward", "text": "When you are ready to discuss your operation, Sara shares the free 30-minute diagnostic booking link."},
+    {"title": "Hands off uncertain details", "text": "For questions the website does not answer, Sara says the team can confirm and offers to collect contact details for follow-up."}
+  ],
+  "faq": [
+    {"q": "Can Sara quote our project price?", "a": "She can share the published information: most first 30-day pilots are $2,500 to $7,500 depending on scope, ongoing operations start from $1,000 per month, and advisory is $100 an hour. Your exact scope and pilot fee are discussed on the diagnostic."},
+    {"q": "Will Sara promise a result or timeline?", "a": "No. She answers from the website and will not promise revenue, performance, delivery dates, or a coverage schedule that Globosmart has not confirmed."},
+    {"q": "Does the agent replace a human for difficult cases?", "a": "The demo answers questions from Globosmart's website. For uncertain details or a matter needing judgment, it can offer to collect contact details so the team can follow up."},
+    {"q": "Where can I book a diagnostic?", "a": "If you are ready to discuss your operation, book the free 30-minute diagnostic here: https://calendly.com/waqas-hania/30min. A booking is not made until you complete it."}
+  ],
+  "close_headline": "Find the operational issue worth solving first",
+  "close_lead": "Tell Sara what is slowing your team down. If the need is a fit for a diagnostic, she can share the booking link so Globosmart can review your operation and discuss the next step.",
+  "close_cta": "Ask Sara about the diagnostic",
+  "brief": "Globosmart Services supports direct-response operations across affiliate programs, customer support, fulfillment, and automation."
+}
