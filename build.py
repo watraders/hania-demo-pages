@@ -18,14 +18,14 @@ STR_FIELDS = {
     "data_date": (6, 20),
     "hero_headline": (10, 70), "hero_emphasis": (3, 50), "hero_lead": (60, 320), "hero_cta": (8, 50),
     "pain_eyebrow": (4, 40), "pain_story": (80, 420), "pain_closer": (20, 140),
-    "inbox_time": (3, 8), "inbox_label": (3, 30),
+    "inbox_time": (3, 14), "inbox_label": (3, 30),
     "icp_headline": (10, 80), "icp_lead": (30, 240),
     "close_headline": (10, 90), "close_lead": (40, 260), "close_cta": (8, 50),
 }
 LIST_FIELDS = {
     "facts": ({"_str": (4, 60)}, 2, 4),
     "chips": ({"label": (4, 48), "question": (8, 240)}, 3, 5),
-    "inbox": ({"channel": (2, 20), "time": (3, 10), "text": (4, 110)}, 2, 3),
+    "inbox": ({"channel": (2, 20), "time": (3, 14), "text": (4, 110)}, 2, 3),
     "icps": ({"who": (3, 40), "title": (8, 80), "pain": (30, 260), "fix": (30, 260), "question": (8, 240)}, 2, 3),
     "does": ({"title": (4, 40), "text": (20, 200)}, 3, 6),
     "faq": ({"q": (8, 100), "a": (20, 320)}, 3, 5),
